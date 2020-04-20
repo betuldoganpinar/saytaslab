@@ -1,3 +1,7 @@
+--BETÜL DOĞANPINAR 
+--4to2 encoder tasarımı
+
+
 Library IEEE;
 Use IEEE.std_logic_1164.all;
 
